@@ -19,13 +19,13 @@ def print_dog():
     for line in dog:
         print(line)
 
-def print_rabbit():  # 함수명 오타 수정 (print_rebbit → print_rabbit)
-    rabbit = [  # 변수명 오타 수정 (reddit → rabbit)
+def print_rebbit():  # 함수명 오타 수정 (print_rebbit → print_rabbit)
+    rebbit = [  # 변수명 오타 수정 (reddit → rabbit)
         "(\\(\\  ",
         "( -.-)",  
         "o(_(\")\")"
     ]
-    for line in rabbit:
+    for line in rebbit:
         print(line)
 
 print("그림 출력 프로그램")
